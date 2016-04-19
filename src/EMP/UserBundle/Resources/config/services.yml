@@ -1,0 +1,4 @@
+services:
+#    emp_user.example:
+#        class: EMP\UserBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
